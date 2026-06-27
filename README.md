@@ -1,66 +1,76 @@
-<h1 align="center">Hi, I'm Ankit Katiyar 👋</h1>
-<h3 align="center">Applied AI Engineer @ Vaisala · Finland 🇫🇮</h3>
-
+<!-- Banner -->
 <p align="center">
-  Building scalable, secure AI agents and agentic workflows — bridging the gap
-  between AI research and real business applications, on 13+ years of Java &amp; microservices.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,12,6&height=230&section=header&text=Ankit%20Katiyar&fontSize=56&fontColor=ffffff&desc=Applied%20AI%20Engineer%20·%20Building%20software%20factories%20that%20run%2024%C3%977&descSize=18&descAlignY=60&animation=fadeIn" alt="Ankit Katiyar" />
 </p>
 
+<!-- Typing animation -->
 <p align="center">
-  <a href="https://ankitkatiyar567.github.io">🌐 Portfolio</a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/therealsignet">💼 LinkedIn</a> &nbsp;•&nbsp;
-  <a href="https://medium.com/@theRealSignet">✍️ Medium</a> &nbsp;•&nbsp;
-  <a href="mailto:ankit.katiyar91@gmail.com">✉️ Email</a>
+  <a href="https://ankitkatiyar567.github.io">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=900&color=9A7CFF&center=true&vCenter=true&width=720&lines=Applied+AI+Engineer+%40+Vaisala;Multi-agent+software+factories+running+24%C3%977;Local+%2B+AWS+EC2+%E2%80%94+always+on;13%2B+years+of+Java+%26+microservices" alt="What I do" />
+  </a>
 </p>
+
+<!-- Social badges -->
+<p align="center">
+  <a href="https://ankitkatiyar567.github.io"><img src="https://img.shields.io/badge/Portfolio-070912?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/therealsignet"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@theRealSignet"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="mailto:ankit.katiyar91@gmail.com"><img src="https://img.shields.io/badge/Email-D97757?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ankitkatiyar567&style=for-the-badge&color=7c5cff&label=PROFILE+VIEWS" />
+</p>
+
+---
+
+### 🏭 What I'm building now
+
+> **Autonomous software factories** — teams of AI agents that take a requirement and ship a reviewed pull request end‑to‑end. They run **24×7**, both on a **local cluster** and on **AWS EC2**.
+
+```mermaid
+flowchart LR
+  R([📋 Requirement]) --> PO[🧑‍💼 Product Owner] --> A[🏛️ Architect] --> D[⌨️ Developer] --> Q[🧪 QA] --> V[🔍 Reviewer] --> S([🚀 Shipped PR])
+  classDef n fill:#15192b,stroke:#7c5cff,color:#eef1f8,rx:6,ry:6;
+  class R,PO,A,D,Q,V,S n;
+```
 
 ---
 
 ### 🚀 About me
 
-- 🤖 **Applied AI Engineer @ Vaisala** — designing multi-agent systems that automate software workflows end-to-end: code generation, testing, deployment & maintenance
-- 🧩 Working in **Agentic Workflows, Model Context Protocol (MCP), and Claude Skills** — agents that coordinate across a microservices architecture
-- 🏗️ **13+ years** of Java 17 / Spring Boot / NestJS on AWS & Kubernetes — renewable energy, smart metering (Landis+Gyr), logistics & more
-- ✍️ I write about practical, tool-centric AI in engineering on [Medium @theRealSignet](https://medium.com/@theRealSignet)
-- 🌐 Languages: Hindi (native) · English (professional) · Finnish (elementary)
-- 📫 Reach me at **ankit.katiyar91@gmail.com**
+- 🤖 **Applied AI Engineer @ Vaisala** — designing multi-agent systems that automate software workflows: code → tests → deploy → maintain
+- 🏭 Running **agentic software factories 24×7** on local + **AWS EC2**
+- 🧩 Working in **Agentic Workflows, Model Context Protocol (MCP), and Claude Skills**
+- 🏗️ **13+ years** of Java 17 / Spring Boot / NestJS on AWS & Kubernetes — renewable energy, smart metering, logistics
+- ✍️ I write about practical, tool-centric AI on [Medium @theRealSignet](https://medium.com/@theRealSignet)
+
+---
 
 ### 🧰 Tech Stack
 
-**AI / Agentic**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nestjs,ts,python,aws,docker,kubernetes,postgres,mongodb,jenkins,git&theme=dark" alt="Tech stack" />
+</p>
 
-![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-6E40C9?style=for-the-badge&logo=probot&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Agentic_Workflows-6E40C9?style=for-the-badge&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Skills-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-1f6feb?style=for-the-badge&logo=ray&logoColor=white" />
+</p>
 
-**Languages & Frameworks**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Cloud, DevOps & Data**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ankitkatiyar567&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkatiyar567&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ankitkatiyar567&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=9A7CFF&icon_color=6E9FFF" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkatiyar567&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9A7CFF" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkatiyar567&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkatiyar567&theme=tokyonight&hide_border=true&background=0D1117&ring=9A7CFF&fire=D97757&currStreakLabel=6E9FFF" alt="GitHub streak" />
 </p>
+
+---
 
 ### ✍️ Latest writing
 
@@ -68,4 +78,6 @@
 - [Built a Free AI Code Review Tool for Bitbucket Server Using Just a Markdown File](https://medium.com/@theRealSignet)
 - [I Stopped Using AI as a Tool. I Started Architecting With It.](https://medium.com/@theRealSignet)
 
-<p align="center"><i>Bridging AI research and functional business applications — one agent at a time.</i></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" alt="" />
+</p>
