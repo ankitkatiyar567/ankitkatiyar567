@@ -52,6 +52,8 @@ flowchart LR
 
 *Shine a little brighter every day.*
 
+🔗 **[ankitkatiyar567.github.io/ihaaya](https://ankitkatiyar567.github.io/ihaaya/)**
+
 <p align="center">
   <a href="https://ankitkatiyar567.github.io/ihaaya/"><img src="https://raw.githubusercontent.com/ankitkatiyar567/ihaaya/main/screenshots/1-landing.png?v=3" width="145" alt="Logo and parent PIN" /></a>
   <a href="https://ankitkatiyar567.github.io/ihaaya/"><img src="https://raw.githubusercontent.com/ankitkatiyar567/ihaaya/main/screenshots/2-chart.png?v=3" width="145" alt="The day's picture tasks" /></a>
