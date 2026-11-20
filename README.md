@@ -1,13 +1,7 @@
-<h1 align="center">Hi, I'm Ankit 👋</h1>
-
-<p align="center">
-  <b>Applied AI Engineer @ Vaisala</b> · I build <b>autonomous software factories</b>:<br/>
-  teams of AI agents that turn a requirement into a reviewed, tested pull request, running 24×7.
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=640&lines=Multi-agent+software+factories%2C+24%C3%977;AI+code+review+on+every+pull+request;Agents+with+MCP+tools+and+Claude+skills;Open+models+running+on+a+laptop" alt="What I build" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" width="100%" alt="Ankit Katiyar · Applied AI Engineer at Vaisala · automating the whole software pipeline with AI agents, 24×7">
+</picture>
 
 <p align="center">
   <a href="https://ankitkatiyar567.github.io"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -17,43 +11,64 @@
   <img src="https://komarev.com/ghpvc/?username=ankitkatiyar567&style=flat-square&color=8b5cf6&label=views" alt="Profile views" />
 </p>
 
-<br/>
-
-## ⚡ Now
+## 🛠️ What I build
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🏭 Software factories</h3>
-      Teams of agents (product owner, architect, developer, QA, reviewer) take a requirement and ship a reviewed pull request end to end, running 24×7 on a local cluster and on AWS.
+      Teams of agents (product owner, architect, developer, QA, reviewer) take a requirement and ship a merged pull request end to end, 24×7 on a local cluster and AWS.
     </td>
-    <td width="50%" valign="top">
-      <h3>🔍 AI code review</h3>
-      Review agents read every pull request in CI, and the same review runs on a developer's laptop before they push, so issues are fixed before anyone waits on them.
+    <td width="33%" valign="top">
+      <h3>🔍 Code‑review bot</h3>
+      AI review on every pull request across the organisation, with specialist lenses for bugs, security and design, and the same review as a CLI before you push.
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔁 Full pipeline automation</h3>
+      Requirement, plan, design, code, tests, review, release and maintenance: agents do the steps, people approve them.
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 Code knowledge graphs</h3>
-      A map of the codebase that agents can query, so they read only what matters: fewer tokens, sharper reviews, safer changes.
+    <td width="33%" valign="top">
+      <h3>🧠 Claude skills</h3>
+      Packaged know‑how that agents load when they need it: factory runbooks, review checklists, release steps.
     </td>
-    <td width="50%" valign="top">
-      <h3>💻 Open models on a laptop</h3>
-      DeepSeek, Qwen and GLM running locally on Apple Silicon next to Claude, for private coding agents that also work offline.
+    <td width="33%" valign="top">
+      <h3>🔌 Plugins</h3>
+      Claude Code plugins with commands, hooks and sub‑agents that bring a team's whole workflow into the terminal.
+    </td>
+    <td width="33%" valign="top">
+      <h3>🛰️ MCP servers</h3>
+      Safe tools and data for agents: repositories, tickets, docs and code knowledge graphs, so they read only what matters.
     </td>
   </tr>
 </table>
 
+## 🧭 How I work
+
+<table>
+  <tr>
+    <td width="25%" valign="top"><b>🤖 Agents do the work</b><br/><sub>Agents plan, code, test and review. I design the system they work in.</sub></td>
+    <td width="25%" valign="top"><b>👀 People decide</b><br/><sub>Every change gets an AI review and a person's yes before it ships.</sub></td>
+    <td width="25%" valign="top"><b>✅ Green CI or no merge</b><br/><sub>Tests run on every pull request, and open blocking findings stop the merge.</sub></td>
+    <td width="25%" valign="top"><b>🏠 Own cloud or local</b><br/><sub>AI runs in our own AWS account or on local models, so code and data stay with us.</sub></td>
+  </tr>
+</table>
+
 <details>
-<summary><b>How a factory ships a change</b></summary>
+<summary><b>How a change flows through the pipeline</b></summary>
 <br/>
 
 ```mermaid
 flowchart LR
-  R([📋 Requirement]) --> PO[🧑‍💼 Product owner] --> A[🏛️ Architect] --> D[⌨️ Developer] --> Q[🧪 QA] --> V[🔍 Reviewer] --> S([🚀 Merged PR])
-  V -. findings .-> D
+  R([📋 Requirement]) --> P[🗺️ Plan] --> D[🏛️ Design] --> C[⌨️ Code] --> T[🧪 Test] --> V[🔍 Review] --> S([🚀 Deploy]) --> M[🔧 Maintain]
+  V -. findings .-> C
+  M -. new work .-> R
+  K[(🧠 Skills · 🔌 plugins · 🛰️ MCP)] -.- P & D & C & T & V
   classDef n fill:#15192b,stroke:#8b5cf6,color:#eef1f8,rx:8,ry:8;
-  class R,PO,A,D,Q,V,S n;
+  classDef k fill:#0b2530,stroke:#22d3ee,color:#eef1f8;
+  class R,P,D,C,T,V,S,M n;
+  class K k;
 ```
 
 </details>
@@ -96,18 +111,18 @@ A picture star chart I built for my 5‑year‑old daughter. Every evening she r
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Model_Context_Protocol-111111?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
-  <img src="https://img.shields.io/badge/Claude_Skills-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Skills" />
-  <img src="https://img.shields.io/badge/Agentic_workflows-6E40C9?style=flat-square&logo=probot&logoColor=white" alt="Agentic workflows" />
-  <img src="https://img.shields.io/badge/Multi--agent_systems-1F6FEB?style=flat-square&logo=ray&logoColor=white" alt="Multi-agent systems" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Claude_Skills-8B5CF6?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Skills" />
+  <img src="https://img.shields.io/badge/Plugins-8B5CF6?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code plugins" />
+  <img src="https://img.shields.io/badge/MCP-0891B2?style=flat-square&logo=anthropic&logoColor=white" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/Multi--agent_systems-0891B2?style=flat-square&logo=ray&logoColor=white" alt="Multi-agent systems" />
   <img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon Bedrock" />
-  <img src="https://img.shields.io/badge/Local_LLMs-0F172A?style=flat-square&logo=apple&logoColor=white" alt="Local LLMs" />
+  <img src="https://img.shields.io/badge/Local_LLMs-059669?style=flat-square&logo=apple&logoColor=white" alt="Local LLMs" />
 </p>
 
 ## 👤 About
 
-- 🤖 Applied AI Engineer at **Vaisala**: multi‑agent systems that automate the software workflow, from code to tests to deploy to maintenance
+- 🤖 Applied AI Engineer at **Vaisala**, automating the software pipeline end to end with multi‑agent systems
 - 🏗️ **13+ years** of Java 17, Spring Boot and NestJS on AWS and Kubernetes, in renewable energy, smart metering and logistics
 - ✍️ I write about practical, tool‑centric AI on [Medium @theRealSignet](https://medium.com/@theRealSignet)
 
@@ -117,4 +132,4 @@ A picture star chart I built for my 5‑year‑old daughter. Every evening she r
 - [Built a Free AI Code Review Tool for Bitbucket Server Using Just a Markdown File](https://medium.com/@theRealSignet)
 - [I Stopped Using AI as a Tool. I Started Architecting With It.](https://medium.com/@theRealSignet)
 
-<p align="center"><sub>Built with agents · reviewed by humans</sub></p>
+<p align="center"><sub>Built with agents · reviewed by people</sub></p>
