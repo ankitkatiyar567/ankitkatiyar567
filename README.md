@@ -59,6 +59,19 @@ flowchart LR
 
 ---
 
+### ⭐ Built at home: [Ihaaya Star Chart](https://ankitkatiyar567.github.io/ihaya/)
+
+> A picture star chart I built for my 5‑year‑old daughter. Every evening she rates her own day with ⭐ or ❌ on picture tasks (sleep, TV time, food, tidying up, kindness, how often she cried), a good day opens a 3‑minute mini game, and every night ends with a 7–10 minute bedtime story. Free, no sign‑up, works as a phone app and keeps the data on the phone.
+
+**Why:** at this age kids get angry and stubborn, and scolding rarely works. Rating herself teaches her to be honest about her own day, the stars and the game turn good behaviour into small wins she can see, and the Friday report celebrates a good week or gently shows what to practise, never with punishment. A clear routine she looks forward to does the disciplining for us.
+
+<p align="center">
+  <a href="https://ankitkatiyar567.github.io/ihaya/"><img src="https://img.shields.io/badge/Open_the_app-7c4dff?style=for-the-badge&logo=pwa&logoColor=white" /></a>
+  <a href="https://github.com/ankitkatiyar567/ihaya"><img src="https://img.shields.io/badge/Source_code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
 ### ✍️ Latest writing
 
 - [AI's Next Phase Won't Be Bigger Models — It Will Be Smaller, Specialized, and Tool-Centric](https://medium.com/@theRealSignet)
