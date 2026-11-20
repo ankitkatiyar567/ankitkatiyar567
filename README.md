@@ -53,10 +53,10 @@ flowchart LR
 *Shine a little brighter every day.*
 
 <p align="center">
-  <a href="https://ankitkatiyar567.github.io/ihaya/"><img src="https://raw.githubusercontent.com/ankitkatiyar567/ihaya/main/screenshots/1-landing.png?v=3" width="160" alt="Logo and parent PIN" /></a>
-  <a href="https://ankitkatiyar567.github.io/ihaya/"><img src="https://raw.githubusercontent.com/ankitkatiyar567/ihaya/main/screenshots/2-chart.png?v=3" width="160" alt="The day's picture tasks" /></a>
-  <a href="https://ankitkatiyar567.github.io/ihaya/"><img src="https://raw.githubusercontent.com/ankitkatiyar567/ihaya/main/screenshots/3-report.png?v=3" width="160" alt="Friday report" /></a>
-  <a href="https://ankitkatiyar567.github.io/ihaya/"><img src="https://raw.githubusercontent.com/ankitkatiyar567/ihaya/main/screenshots/4-game-and-story.png?v=3" width="160" alt="Daily game and bedtime story" /></a>
+  <a href="https://ankitkatiyar567.github.io/ihaya/"><img src="https://raw.githubusercontent.com/ankitkatiyar567/ihaya/main/screenshots/1-landing.png?v=3" width="145" alt="Logo and parent PIN" /></a>
+  <a href="https://ankitkatiyar567.github.io/ihaya/"><img src="https://raw.githubusercontent.com/ankitkatiyar567/ihaya/main/screenshots/2-chart.png?v=3" width="145" alt="The day's picture tasks" /></a>
+  <a href="https://ankitkatiyar567.github.io/ihaya/"><img src="https://raw.githubusercontent.com/ankitkatiyar567/ihaya/main/screenshots/3-report.png?v=3" width="145" alt="Friday report" /></a>
+  <a href="https://ankitkatiyar567.github.io/ihaya/"><img src="https://raw.githubusercontent.com/ankitkatiyar567/ihaya/main/screenshots/4-game-and-story.png?v=3" width="145" alt="Daily game and bedtime story" /></a>
 </p>
 
 A picture star chart I built for my 5‑year‑old daughter. Every evening she rates her own day with ⭐ or ❌ on picture tasks (sleep, TV time, food, tidying up, kindness, how often she cried), a good day opens a 3‑minute mini game, and every night ends with a 7–10 minute bedtime story. Free, no sign‑up, works as a phone app and keeps the data on the phone.
