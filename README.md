@@ -48,23 +48,23 @@ flowchart LR
 
 ## 🧪 Projects
 
-### ⭐ [Ihaaya](https://ankitkatiyar567.github.io/ihaya/) · built at home
+### ⭐ [Ihaaya](https://ankitkatiyar567.github.io/ihaaya/) · built at home
 
 *Shine a little brighter every day.*
 
 <p align="center">
-  <a href="https://ankitkatiyar567.github.io/ihaya/"><img src="https://raw.githubusercontent.com/ankitkatiyar567/ihaya/main/screenshots/1-landing.png?v=3" width="145" alt="Logo and parent PIN" /></a>
-  <a href="https://ankitkatiyar567.github.io/ihaya/"><img src="https://raw.githubusercontent.com/ankitkatiyar567/ihaya/main/screenshots/2-chart.png?v=3" width="145" alt="The day's picture tasks" /></a>
-  <a href="https://ankitkatiyar567.github.io/ihaya/"><img src="https://raw.githubusercontent.com/ankitkatiyar567/ihaya/main/screenshots/3-report.png?v=3" width="145" alt="Friday report" /></a>
-  <a href="https://ankitkatiyar567.github.io/ihaya/"><img src="https://raw.githubusercontent.com/ankitkatiyar567/ihaya/main/screenshots/4-game-and-story.png?v=3" width="145" alt="Daily game and bedtime story" /></a>
+  <a href="https://ankitkatiyar567.github.io/ihaaya/"><img src="https://raw.githubusercontent.com/ankitkatiyar567/ihaaya/main/screenshots/1-landing.png?v=3" width="145" alt="Logo and parent PIN" /></a>
+  <a href="https://ankitkatiyar567.github.io/ihaaya/"><img src="https://raw.githubusercontent.com/ankitkatiyar567/ihaaya/main/screenshots/2-chart.png?v=3" width="145" alt="The day's picture tasks" /></a>
+  <a href="https://ankitkatiyar567.github.io/ihaaya/"><img src="https://raw.githubusercontent.com/ankitkatiyar567/ihaaya/main/screenshots/3-report.png?v=3" width="145" alt="Friday report" /></a>
+  <a href="https://ankitkatiyar567.github.io/ihaaya/"><img src="https://raw.githubusercontent.com/ankitkatiyar567/ihaaya/main/screenshots/4-game-and-story.png?v=3" width="145" alt="Daily game and bedtime story" /></a>
 </p>
 
 A picture star chart I built for my 5‑year‑old daughter. Every evening she rates her own day with ⭐ or ❌ on picture tasks (sleep, TV time, food, tidying up, kindness, how often she cried), a good day opens a 3‑minute mini game, and every night ends with a 7–10 minute bedtime story. Free, no sign‑up, works as a phone app and keeps the data on the phone.
 
 **Why:** at this age kids get angry and stubborn, and scolding rarely works. Rating herself teaches her to be honest about her own day, the stars and the game turn good behaviour into small wins she can see, and the Friday report celebrates a good week or gently shows what to practise, never with punishment. A clear routine she looks forward to does the disciplining for us.
 
-<a href="https://ankitkatiyar567.github.io/ihaya/"><img src="https://img.shields.io/badge/Open_the_app-8B5CF6?style=flat-square&logo=pwa&logoColor=white" alt="Open the app" /></a>
-<a href="https://github.com/ankitkatiyar567/ihaya"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source code" /></a>
+<a href="https://ankitkatiyar567.github.io/ihaaya/"><img src="https://img.shields.io/badge/Open_the_app-8B5CF6?style=flat-square&logo=pwa&logoColor=white" alt="Open the app" /></a>
+<a href="https://github.com/ankitkatiyar567/ihaaya"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source code" /></a>
 
 #### More
 
