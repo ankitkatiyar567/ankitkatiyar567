@@ -77,7 +77,7 @@ flowchart LR
 
 ### ⭐ [Ihaaya](https://ankitkatiyar567.github.io/ihaya/) · built at home
 
-*Good days, one star at a time.*
+*Shine a little brighter every day.*
 
 <p align="center">
   <a href="https://ankitkatiyar567.github.io/ihaya/"><img src="https://raw.githubusercontent.com/ankitkatiyar567/ihaya/main/screenshots/1-landing.png" width="180" alt="Logo and parent PIN" /></a>
